@@ -1,1 +1,1 @@
-# This repo is live at http://freshteacher.software/search/
+# This site is live at https://freshteacher.software/Fresh-Search-Filter/
