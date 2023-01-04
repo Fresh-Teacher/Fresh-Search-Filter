@@ -1,1 +1,1 @@
-# This repo is live at http://freshteacher.tech/search/
+# This repo is live at http://freshteacher.software/search/
